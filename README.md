@@ -30,7 +30,7 @@ Turn your ESP32 into a **local chat server** using its Wi-Fi Access Point (AP) c
 ## 📷 Demo
 
 <!-- Optional: Add GIF or screenshot -->
-*(Add a screenshot of the chat UI here if available)*
+![ESP32 Chatroom Demo](chatroomgif.gif)
 
 ---
 
